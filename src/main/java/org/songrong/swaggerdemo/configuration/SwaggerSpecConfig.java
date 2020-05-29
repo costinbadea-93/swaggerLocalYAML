@@ -1,4 +1,4 @@
-package org.songrong.swaggerdemo;
+package org.songrong.swaggerdemo.configuration;
 
 import java.util.ArrayList;
 import java.util.Arrays;
